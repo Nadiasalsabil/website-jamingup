@@ -1,0 +1,5 @@
+kode warna
+
+#F7931E (background head(oranye))
+
+#2E3192 (background head(blue))
